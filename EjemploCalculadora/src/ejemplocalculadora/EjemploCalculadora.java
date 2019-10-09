@@ -18,7 +18,7 @@ public class EjemploCalculadora {
             System.out.println("PRESIONE 3 PARA MULTIPLICAR");
             System.out.println("PRESIONE 4 PARA DIVIDIR");
             System.out.println("PRESIONE 5 PARA UNA POTENCIA");
-            System.out.println("PRESIONE 6 PARA UNA ECUACIÓN DE SEGUNDO GRADO(ax2+bx+c=0)");
+            System.out.println("PRESIONE 6 PARA UNA ECUACIÓN DE SEGUNDO GRADO(ax2+bx+c=0)");//Actualmente en estado de desarrollo
             System.out.println("-------------------------------");
             menu=teclado.nextInt();
             switch(menu){
